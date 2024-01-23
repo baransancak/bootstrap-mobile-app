@@ -32,7 +32,7 @@ nav{
   position: absolute;
   height: 350px;
   width: 350px;
-  background: linear-gradient(90deg, #4d31ec 0%, #9f1ae3 100%);
+  background: linear-gradient(90deg, #ec3131 0%, #7e1111 100%);
   border-radius: 100%;
   margin-top: 50px;
 }
@@ -40,7 +40,7 @@ nav{
 .dot {
   height: 20px;
   width: 20px;
-  background-color: #2937f0;
+  background-color: #7e1111;
   border-radius: 100%;
 }
 
@@ -52,7 +52,7 @@ nav{
   position: absolute;
   height: 20px;
   width: 5px;
-  background-color: #2937f0;
+  background-color: #7e1111;
   border-radius: 40px;
   transform: rotate(45deg);
   z-index: 0;
@@ -62,7 +62,7 @@ nav{
   position: relative;
   height: 20px;
   width: 5px;
-  background-color: #2937f0;
+  background-color: #7e1111;
   border-radius: 40px;
   transform: rotate(-45deg);
 }
@@ -86,7 +86,7 @@ nav{
 
 
 .mid-content {
-  background: linear-gradient(90deg, #4d31ec 0%, #9f1ae3 100%);
+  background: linear-gradient(90deg, #ec3131 0%, #7e1111 100%);
   padding-bottom: 4rem;
   padding-top: 4rem;
 }
@@ -98,7 +98,7 @@ nav{
 
 .icon {
   font-size: 4rem;
-  background: -webkit-linear-gradient(#2937f0, #9f1ae2);
+  background: -webkit-linear-gradient(#ec3131, #7e1111);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -119,7 +119,7 @@ nav{
   height: 250px;
   width: 250px;
   border-radius: 100%;
-  background: linear-gradient(180deg, #4d31ec 0%, #9f1ae3 100%);
+  background: linear-gradient(180deg, #ec3131 0%, #7e1111 100%);
   transform: translate(-90px, 100px);
 }
 
@@ -174,7 +174,7 @@ nav{
 }
 
 .download {
-  background: linear-gradient(90deg, #4d31ec 0%, #9f1ae3 100%);
+  background: linear-gradient(90deg, #7e1111 0%, #ec3131 100%);
   padding-top: 70px;
   padding-bottom: 70px;
 }
@@ -189,7 +189,7 @@ footer a:hover {
 }
 
 .modal-header{
-  background: linear-gradient(90deg, #4d31ec 0%, #9f1ae3 100%);
+  background: linear-gradient(90deg, #7e1111 0%, #ec3131 100%);
   color: #fff;
 }
 
@@ -211,3 +211,4 @@ footer a:hover {
    display: none;
   }
 }
+
