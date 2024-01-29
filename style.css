@@ -201,14 +201,30 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 990px) {
-  .mockup-image img {
+/*  .mockup-image img {
    display: none;
   }
+
+  .device-img  {
+    display: none;
+   }
+
+   .circle-features {
+    display: none;
+   }
+
+   .dot {
+    display: none;
+   }
+   
+   .circle {
+    display: none;
+   }*/
+
+   .cross-1, .cross, .circle, .dot, .circle-features, .device-img, .mockup-image img {
+    display: none;
+   }
+   
 }
 
-@media only screen and (max-width: 990px) {
-  .circle-features {
-   display: none;
-  }
-}
 
